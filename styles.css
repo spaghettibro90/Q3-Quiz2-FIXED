@@ -1,0 +1,52 @@
+body {
+	background-image: url(https://png.pngtree.com/background/20230525/original/pngtree-dark-forest-scene-with-a-full-moon-picture-image_2732981.jpg);
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size:80px;
+	font-family: 'Zombie Control Expnaded', sans-serif;
+}
+
+h2 {
+	font-size:30px;
+	font-family: 'Stoehr numbers', sans-serif;
+}
+strong {
+	font-size:23px;
+	font-family: 'Young Frankenstein', sans-serif;
+}
+
+.reviewtext {
+	font-family: 'Romanicum', sans-serif;
+	border-width: 8px;
+	margin-left: 300px;
+	margin-right: 300px;  
+	border-style:outset;
+	background-color: #737373;
+	border-width: 8px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-color: #666666 #666666 #404040 #404040;
+
+
+}
+
+.header {
+
+	border-style:outset;
+	background-color: #737373;
+	border-width: 8px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-color: #666666 #666666 #404040 #404040;
+}
+img 
+{
+	width: 300px;
+	height:400px;
+}
+
